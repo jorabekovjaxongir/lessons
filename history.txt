@@ -1,0 +1,24 @@
+###############################################
+Raxmatilla player gun:sniper
+Epic player gun:pistol
+player Raxmatilla shoot to promah2 0 of player Epic HP:100
+player Epic shoot to promah1 0 of player Raxmatilla HP:100
+player Epic shoot to promah1 0 of player Raxmatilla HP:100
+player Epic shoot to heart 17.0 of player Raxmatilla HP:83.0
+player Epic shoot to promah1 0 of player Raxmatilla HP:83.0
+player Epic shoot to hand 5.0 of player Raxmatilla HP:78.0
+player Raxmatilla shoot to promah2 0 of player Epic HP:100
+player Epic shoot to head 20 of player Raxmatilla HP:58.0
+player Epic shoot to arm 10 of player Raxmatilla HP:48.0
+player Epic shoot to hand 5.0 of player Raxmatilla HP:43.0
+player Epic shoot to promah2 0 of player Raxmatilla HP:43.0
+player Epic shoot to heart 17.0 of player Raxmatilla HP:26.0
+player Raxmatilla shoot to heart 136.0 of player Epic HP:-36.0
+Epic player dead from Raxmatilla
+###############################################
+Raxmatilla player gun:sniper
+Jaxongir player gun:shotgun
+player Raxmatilla shoot to promah1 0 of player Jaxongir HP:100
+player Jaxongir shoot to head 80 of player Raxmatilla HP:20
+player Raxmatilla shoot to heart 136.0 of player Jaxongir HP:-36.0
+Jaxongir player dead from Raxmatilla
